@@ -13,12 +13,11 @@ export default createGlobalStyle`
     background: #312e38;
     color: #fff;
   }
+
   body, input, button{
     font-family: serif;
     font-size: 16;
   }
-
-
 
   button{
     cursor: pointer;
